@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MorochkaKA_02_01.SecondAcrivity">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style TargetType="Button" x:Name="stylebtn">
+                <Setter Property="CornerRadius" Value="10"/>
+                <Setter Property="Background" Value="LightGreen"/>
+                <Setter Property="TextColor" Value="White"/>
+            </Style>
+            <Style TargetType="Entry">
+                <Setter Property="Background" Value="White"/>
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <StackLayout BackgroundColor="#2196F3">
+        <Label Text="Выбор фигуры" TextColor="White" FontSize="24" 
+               HorizontalTextAlignment="Center" Margin="10,0,10,10" FontAttributes="Bold"/>
+        <Image Source="circle" x:Name="img"
+               WidthRequest="400" Margin="10,20,10,10"/>
+        <Picker x:Name="pic" SelectedIndexChanged="pic_SelectedIndexChanged"
+            Title="Выберете фигуру:" Margin="30,20,30,0" Background="White">
+            <Picker.Items>
+                <x:String>Круг</x:String>
+                <x:String>Треугольник</x:String>
+            </Picker.Items>
+        </Picker>
+        <Entry Placeholder="Введите данные для расчета:" Margin="30,20,30,0" Background="White"/>
+        <Button Text="Выполнить расчет" Margin="30,20,30,0" Clicked="Button_Clicked" FontSize="20"
+                FontAttributes="Bold"/>
+
+    </StackLayout>
+</ContentPage>

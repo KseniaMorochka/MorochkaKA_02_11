@@ -1,0 +1,16 @@
+C:\morochka\MorochkaKA_02_01\MorochkaKA_02_01\bin\Debug\netstandard2.0\MorochkaKA_02_01.deps.json
+C:\morochka\MorochkaKA_02_01\MorochkaKA_02_01\bin\Debug\netstandard2.0\MorochkaKA_02_01.dll
+C:\morochka\MorochkaKA_02_01\MorochkaKA_02_01\bin\Debug\netstandard2.0\ref\MorochkaKA_02_01.dll
+C:\morochka\MorochkaKA_02_01\MorochkaKA_02_01\bin\Debug\netstandard2.0\MorochkaKA_02_01.pdb
+C:\morochka\MorochkaKA_02_01\MorochkaKA_02_01\obj\Debug\netstandard2.0\MorochkaKA_02_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\morochka\MorochkaKA_02_01\MorochkaKA_02_01\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\morochka\MorochkaKA_02_01\MorochkaKA_02_01\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\morochka\MorochkaKA_02_01\MorochkaKA_02_01\obj\Debug\netstandard2.0\MorochkaKA_02_01.AssemblyInfoInputs.cache
+C:\morochka\MorochkaKA_02_01\MorochkaKA_02_01\obj\Debug\netstandard2.0\MorochkaKA_02_01.AssemblyInfo.cs
+C:\morochka\MorochkaKA_02_01\MorochkaKA_02_01\obj\Debug\netstandard2.0\MorochkaKA_02_01.csproj.CoreCompileInputs.cache
+C:\morochka\MorochkaKA_02_01\MorochkaKA_02_01\obj\Debug\netstandard2.0\XamlC.stamp
+C:\morochka\MorochkaKA_02_01\MorochkaKA_02_01\obj\Debug\netstandard2.0\MorochkaKA_02_01.dll
+C:\morochka\MorochkaKA_02_01\MorochkaKA_02_01\obj\Debug\netstandard2.0\ref\MorochkaKA_02_01.dll
+C:\morochka\MorochkaKA_02_01\MorochkaKA_02_01\obj\Debug\netstandard2.0\MorochkaKA_02_01.pdb
+C:\morochka\MorochkaKA_02_01\MorochkaKA_02_01\obj\Debug\netstandard2.0\SecondAcrivity.xaml.g.cs
+C:\morochka\MorochkaKA_02_01\MorochkaKA_02_01\obj\Debug\netstandard2.0\FierdActivity.xaml.g.cs
